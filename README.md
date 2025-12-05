@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @Chhatrapati-sahu-09
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on something new
-- 📫 How to reach me chhatrapatisahu09@gmail.com
-- 😄 Pronouns: baba
+Full-Stack Developer | MERN Stack Specialist | DSA Enthusiast
+Building fast, scalable, and user-focused web experiences with React, Node.js, Express, and MongoDB.
+Focused on delivering production-ready applications with clean code and optimized performance.
 
-<!---
-Chhatrapati-sahu-09/Chhatrapati-sahu-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Experience: Ex-MERN Intern at Innodeed Systems
+Education: B.Tech in Computer Science Engineering
+
+Tech Stack:
+JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, Tailwind CSS, REST APIs
+
+Currently Learning:
+Advanced DSA, Backend Architecture, DevOps, System Design
+
+Open to collaboration and learning opportunities.
+
+Email: chhatrapatisahuo9@gmail.com
+
+Portfolio: https://www.chhatrapatisahu.me/
