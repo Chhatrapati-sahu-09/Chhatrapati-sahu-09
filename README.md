@@ -1,60 +1,81 @@
 # Chhatrapati Sahu
 
-Full-Stack Developer | MERN Stack Specialist | DSA Enthusiast
+Full Stack Developer | MERN Stack Specialist | DSA Enthusiast
 
-Building fast, scalable, and user-focused web experiences using modern web technologies. Focused on delivering production-ready applications with clean architecture and optimized performance.
+I build fast, scalable, and user-focused web applications using modern technologies. My focus is on clean architecture, optimized performance, and production-ready applications.
+
+---
+
+## About Me
+
+Name: Chhatrapati Sahu
+Education: B.Tech in Computer Science Engineering
+Experience: Ex-MERN Intern at Innodeed Systems
+
+Areas of Interest
+
+* Full Stack Web Development
+* Data Structures and Algorithms
+* Backend Architecture
+* System Design
+* Scalable Web Applications
 
 ---
 
 ## Tech Stack
 
-<div align="left">
+### Frontend
 
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,vite,redux\&perline=8)](https://skillicons.dev)
 
-</div>
+### Backend
 
----
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,java\&perline=8)](https://skillicons.dev)
 
-## Experience
+### Database
 
-Ex-MERN Intern
-Innodeed Systems
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres\&perline=8)](https://skillicons.dev)
 
----
+### Tools
 
-## Education
-
-B.Tech in Computer Science Engineering
-
----
-
-## Technologies
-
-JavaScript
-TypeScript
-React
-Node.js
-Express.js
-MongoDB
-PostgreSQL
-Tailwind CSS
-REST APIs
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx\&perline=8)](https://skillicons.dev)
 
 ---
 
 ## Currently Learning
 
-Advanced Data Structures and Algorithms
-Backend Architecture
-DevOps
-System Design
+* Advanced Data Structures and Algorithms
+* Backend Architecture
+* DevOps Fundamentals
+* System Design Concepts
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://www.chhatrapatisahu.me/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+</a>
+
+<a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/____baba_____09/" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+</a>
+
+<a href="https://x.com/CHHATRAPATI09" target="_blank">
+<img src="https://cdn.simpleicons.org/x" height="40"/>
+</a>
+
+</p>
 
 ---
 
@@ -62,15 +83,15 @@ System Design
 
 Email: [chhatrapatisahu09@gmail.com](mailto:chhatrapatisahu09@gmail.com)
 
-Portfolio:
+Portfolio
 https://www.chhatrapatisahu.me/
 
-GitHub:
+GitHub
 https://github.com/Chhatrapati-sahu-09
 
-LinkedIn:
+LinkedIn
 https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/
 
 ---
 
-Open to collaboration, internships, and software development opportunities.
+Open to internships, collaborations, and challenging software development opportunities.
