@@ -1,1 +1,80 @@
-# Chhatrapati Sahu Full Stack Developer | MERN Stack Specialist | DSA Enthusiast I build fast, scalable, and user-focused web applications using modern technologies. My focus is on clean architecture, optimized performance, and production-ready applications. --- ## About Me Name: Chhatrapati Sahu Education: B.Tech in Computer Science Engineering Experience: Ex-MERN Intern at Innodeed Systems Areas of Interest * Full Stack Web Development * Data Structures and Algorithms * Backend Architecture * System Design * Scalable Web Applications --- ## Tech Stack ### Frontend [![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,js,ts,vite,redux\&perline=8)](https://skillicons.dev) ### Backend [![Backend](https://skillicons.dev/icons?i=nodejs,express,java\&perline=8)](https://skillicons.dev) ### Database [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres\&perline=8)](https://skillicons.dev) ### Tools [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,nginx\&perline=8)](https://skillicons.dev) --- ## Currently Learning * Advanced Data Structures and Algorithms * Backend Architecture * DevOps Fundamentals * System Design Concepts --- ## Connect With Me <p align="left"> <a href="https://www.chhatrapatisahu.me/" target="_blank"> <img src="https://skillicons.dev/icons?i=vercel" height="40"/> </a> <a href="https://github.com/Chhatrapati-sahu-09" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> <a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://www.instagram.com/____baba_____09/" target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/> </a> <a href="https://x.com/CHHATRAPATI09" target="_blank"> <img src="https://cdn.simpleicons.org/x" height="40"/> </a> </p> --- ## Contact Email: [chhatrapatisahu09@gmail.com](mailto:chhatrapatisahu09@gmail.com) Portfolio https://www.chhatrapatisahu.me/ GitHub https://github.com/Chhatrapati-sahu-09 LinkedIn https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/ --- Open to internships, collaborations, and challenging software development opportunities.
+<h1 align="center">Hi, I'm Chhatrapati Sahu</h1>
+<h3 align="center">Frontend-focused MERN Stack Developer building scalable, real-world web applications</h3>
+
+---
+
+## About Me
+
+- Working on MERN stack projects (CropShare, AI tools, full-stack apps) and DSA
+- Learning Advanced React, Next.js, System Design, and AI APIs
+- Open to collaborate on real-world MERN / AI projects
+- Looking for help with scaling, backend architecture, and AI integrations
+- Ask me about React, Vue, GSAP, and MERN stack development
+
+---
+
+## Portfolio & Contact
+
+- Portfolio: https://www.chhatrapatisahu.me  
+- Email: chhatrapatisahu09@gmail.com  
+- Articles: https://x.com/CHHATRAPATI09  
+- Resume: https://docs.google.com/document/d/1GqV9GQRJGGcAKTo7QU5hrmH0jBYsSTHM  
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://x.com/CHHATRAPATI09" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+</p>
+
+---
+
+## Tech Stack
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Chhatrapati-sahu-09&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=apprentice&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Chhatrapati-sahu-09&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## Profile Views
+
+[![](https://komarev.com/ghpvc/?username=Chhatrapati-sahu-09&color=blue)](https://visitcount.itsvg.in)
+
+---
+
+## Projects
+
+- CropShare → https://cropshare.onrender.com/  
+- Major Project → https://majorproject-8a3f.onrender.com/listings  
+- NeoMeet → https://neomeet-1.onrender.com/  
