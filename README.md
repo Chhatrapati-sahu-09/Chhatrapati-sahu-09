@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Chhatrapati Sahu 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  <img src="https://media1.tenor.com/m/6x6SzV9PwtIAAAAC/excited-yes.gif" width="35px" style="vertical-align: -5px;"/>
 </h1>
 <h3 align="center">Frontend-focused MERN Stack Developer building scalable, real-world web applications</h3>
 
