@@ -107,187 +107,326 @@
 
 <div align="center">
 
+## Languages
+
 <table>
-
 <tr>
-<td align="center" width="140">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45"/>
-
-<br>HTML
-
-</td>
 
 <td align="center" width="140">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
-
-<br>CSS
-
-</td>
-
-<td align="center" width="140">
-
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="45"/>
-
-<br>JavaScript
-
+<br><strong>JavaScript</strong>
 </td>
 
 <td align="center" width="140">
-
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="45"/>
+<br><strong>TypeScript</strong>
+</td>
 
-<br>TypeScript
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="45"/>
+<br><strong>Java</strong>
+</td>
 
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="45"/>
+<br><strong>Python</strong>
 </td>
 
 </tr>
 
 <tr>
-<td align="center">
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
-
-<br>React.js
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="45"/>
+<br><strong>C</strong>
 </td>
 
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="45"/>
-
-<br>Next.js
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="45"/>
+<br><strong>C++</strong>
 </td>
 
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="45"/>
-
-<br>Vue.js
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="45"/>
-
-<br>Redux
-
-</td>
-
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
-
-<br>Node.js
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="45"/>
-
-<br>Express.js
-
-</td>
-
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
-
-<br>MongoDB
-
-</td>
-
-<td align="center">
-
+<td align="center" width="140">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="45"/>
+<br><strong>SQL</strong>
+</td>
 
-<br>MySQL
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45"/>
+<br><strong>HTML5</strong>
 </td>
 
 </tr>
 
 <tr>
-<td align="center">
 
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
+<br><strong>CSS3</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## Frontend Development
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
+<br><strong>React.js</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="45"/>
+<br><strong>Next.js</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="45"/>
+<br><strong>Vue.js</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="45"/>
+<br><strong>Redux Toolkit</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="45"/>
+<br><strong>Tailwind CSS</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="45"/>
+<br><strong>Bootstrap</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" width="45"/>
+<br><strong>Material UI</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
+<br><strong>Framer Motion</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ejs.png" width="45"/>
+<br><strong>EJS</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
+<br><strong>Responsive Design</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## Backend Development
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
+<br><strong>Node.js</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="45"/>
+<br><strong>Express.js</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="45"/>
+<br><strong>REST API</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" width="45"/>
+<br><strong>GraphQL</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
+<br><strong>Firebase Auth</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" width="45"/>
+<br><strong>Socket.io</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
+<br><strong>MVC Architecture</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="45"/>
+<br><strong>API Integration</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## Database
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
+<br><strong>MongoDB</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="45"/>
+<br><strong>MySQL</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="45"/>
+<br><strong>PostgreSQL</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" width="45"/>
+<br><strong>Prisma</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
+<br><strong>Mongoose</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
+<br><strong>Firestore</strong>
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tools & Platforms
+
+<table>
+<tr>
+
+<td align="center" width="140">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="45"/>
-
-<br>Git
-
+<br><strong>Git</strong>
 </td>
 
-<td align="center">
-
+<td align="center" width="140">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="45"/>
-
-<br>GitHub
-
+<br><strong>GitHub</strong>
 </td>
 
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="45"/>
-
-<br>npm
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45"/>
+<br><strong>VS Code</strong>
 </td>
 
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="45"/>
-
-<br>Docker
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="45"/>
+<br><strong>Postman</strong>
 </td>
 
 </tr>
 
 <tr>
-<td align="center">
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45"/>
-
-<br>VS Code
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="45"/>
+<br><strong>Docker</strong>
 </td>
 
-<td align="center">
-
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="45"/>
-
-<br>Postman
-
-</td>
-
-<td align="center">
-
+<td align="center" width="140">
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="45"/>
-
-<br>AWS
-
+<br><strong>AWS</strong>
 </td>
 
-<td align="center">
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
+<br><strong>Firebase</strong>
+</td>
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="45"/>
-
-<br>Vercel
-
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="45"/>
+<br><strong>npm</strong>
 </td>
 
 </tr>
 
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="45"/>
+<br><strong>Linux</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="45"/>
+<br><strong>Figma</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="45"/>
+<br><strong>Canva</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="45"/>
+<br><strong>Vercel</strong>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/netlify.png" width="45"/>
+<br><strong>Netlify</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/render.png" width="45"/>
+<br><strong>Render</strong>
+</td>
+
+</tr>
 </table>
 
 </div>
----
 
 # GitHub Stats
 
