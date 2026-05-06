@@ -129,14 +129,14 @@
 - Major Project → https://majorproject-8a3f.onrender.com/listings  
 - NeoMeet → https://neomeet-1.onrender.com/
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg" />
-  </picture>
-</p>
+# GitHub Activity Graph
 
 <p align="center">
-  Snake animation generated from my GitHub contribution graph
+  <a href="https://github.com/Chhatrapati-sahu-09">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Chhatrapati-sahu-09&theme=react-dark&hide_border=true"
+      alt="GitHub Activity Graph"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 </p>
