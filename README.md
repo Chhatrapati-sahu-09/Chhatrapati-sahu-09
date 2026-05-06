@@ -105,36 +105,188 @@
 
 # Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp" />
-</p>
+<table>
 
-### Frontend
+<tr>
+<td align="center" width="140">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux" />
-</p>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45"/>
 
-### Backend
+<br>HTML
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+</td>
 
-### Database
+<td align="center" width="140">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
 
-### Tools & DevOps
+<br>CSS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
-</p>
+</td>
 
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="45"/>
+
+<br>JavaScript
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="45"/>
+
+<br>TypeScript
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
+
+<br>React.js
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="45"/>
+
+<br>Next.js
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="45"/>
+
+<br>Vue.js
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="45"/>
+
+<br>Redux
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
+
+<br>Node.js
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="45"/>
+
+<br>Express.js
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
+
+<br>MongoDB
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="45"/>
+
+<br>MySQL
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="45"/>
+
+<br>Git
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="45"/>
+
+<br>GitHub
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="45"/>
+
+<br>npm
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="45"/>
+
+<br>Docker
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45"/>
+
+<br>VS Code
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="45"/>
+
+<br>Postman
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="45"/>
+
+<br>AWS
+
+</td>
+
+<td align="center">
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="45"/>
+
+<br>Vercel
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 ---
 
 # GitHub Stats
