@@ -432,12 +432,11 @@
 
 # GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Chhatrapati-sahu-09&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
