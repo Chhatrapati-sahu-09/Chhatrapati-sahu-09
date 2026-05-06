@@ -25,81 +25,80 @@
 
 # Portfolio
 
-<p align="center">
+<div align="center">
 
-  <a href="https://www.chhatrapatisahu.me" target="_blank">
-    <img 
-      src="./badges/portfolio.svg"
-      alt="Portfolio"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://www.chhatrapatisahu.me" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
 
+<br><br>
+
+<p>
+  🚀 Explore my projects, case studies, and development journey
 </p>
 
-<p align="center">
-  Explore my projects, case studies, and development journey
-</p>
+</div>
 
 ---
 
 # Connect With Me
 
-<p align="center">
+<div align="center">
 
-  <a href="mailto:chhatrapatisahu09@gmail.com">
-    <img 
-      src="./badges/gmail.svg"
-      alt="Gmail"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="mailto:chhatrapatisahu09@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
 
-  <a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
-    <img 
-      src="./badges/linkedin.svg"
-      alt="LinkedIn"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
 
-  <a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
-    <img 
-      src="./badges/github.svg"
-      alt="GitHub"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
-  <a href="https://x.com/CHHATRAPATI09" target="_blank">
-    <img 
-      src="./badges/twitter.svg"
-      alt="Twitter"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://x.com/CHHATRAPATI09" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="Twitter"
+  />
+</a>
 
-  <a href="https://leetcode.com/u/QU4DqXkyFr/" target="_blank">
-    <img 
-      src="./badges/leetcode.svg"
-      alt="LeetCode"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://leetcode.com/u/QU4DqXkyFr/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+    alt="LeetCode"
+  />
+</a>
 
-  <a href="https://docs.google.com/document/d/1GqV9GQRJGGcAKTo7QU5hrmH0jBYsSTHM" target="_blank">
-    <img 
-      src="./badges/resume.svg"
-      alt="Resume"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
+<a href="https://docs.google.com/document/d/1GqV9GQRJGGcAKTo7QU5hrmH0jBYsSTHM" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"
+    alt="Resume"
+  />
+</a>
 
-</p>
+</div>
 
-<p align="center">
-  Open for internships, collaborations, and full-stack development opportunities
-</p>
+<br>
+
+<div align="center">
+
+### 💼 Open for Internships • 🤝 Collaborations • 🚀 Full-Stack Opportunities
+
+</div>
 
 ---
 
