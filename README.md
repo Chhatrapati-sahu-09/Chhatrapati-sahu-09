@@ -30,19 +30,20 @@
 <div align="center">
 
 <a href="https://www.chhatrapatisahu.me" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portfolio"
-  />
+
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+
 </a>
 
 <br><br>
 
-<p>
-  🚀 Explore my projects, case studies, and development journey
+<p align="center">
+  🌐 Explore my projects, case studies, full-stack applications, and development journey
 </p>
 
 </div>
+
+---
 
 ---
 
