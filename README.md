@@ -453,57 +453,6 @@
 
 ---
 
-# GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Chhatrapati-sahu-09">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Chhatrapati-sahu-09&theme=react-dark&hide_border=true"
-      alt="GitHub Activity Graph"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg"
-    alt="Snake animation"
-    style="vertical-align:top; margin:6px 4px"
-  >
-</p>
-
----
-
-# LeetCode Stats
-
-<p align="center">
-
-  <a href="https://leetcode.com/u/QU4DqXkyFr/" target="_blank">
-    <img 
-      src="./badges/leetcode.svg"
-      alt="LeetCode"
-      style="vertical-align:top; margin:6px 4px"
-    >
-  </a>
-
-</p>
-
-<p align="center">
-
-  <img 
-    src="https://leetcard.jacoblin.cool/QU4DqXkyFr?theme=dark&font=Karma&ext=contest"
-    alt="LeetCode Stats"
-    style="vertical-align:top; margin:6px 4px"
-  >
-
-</p>
-
----
 
 # Featured Projects
 
