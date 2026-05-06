@@ -20,7 +20,11 @@
 
 <p align="center">
   <a href="https://www.chhatrapatisahu.me" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/Visit%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Portfolio"
+      style="vertical-align:top; margin:6px 4px"
+    >
   </a>
 </p>
 
@@ -34,29 +38,53 @@
 
 <p align="center">
 
-<a href="mailto:chhatrapatisahu09@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:chhatrapatisahu09@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
-<a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/chhatrpati-sahu-4b803130a/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
-<a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/Chhatrapati-sahu-09" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
-<a href="https://x.com/CHHATRAPATI09" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+  <a href="https://x.com/CHHATRAPATI09" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="Twitter"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
-<a href="https://leetcode.com/u/QU4DqXkyFr/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+  <a href="https://leetcode.com/u/QU4DqXkyFr/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
-<a href="https://docs.google.com/document/d/1GqV9GQRJGGcAKTo7QU5hrmH0jBYsSTHM" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
-</a>
+  <a href="https://docs.google.com/document/d/1GqV9GQRJGGcAKTo7QU5hrmH0jBYsSTHM" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"
+      alt="Resume"
+      style="vertical-align:top; margin:6px 4px"
+    >
+  </a>
 
 </p>
 
