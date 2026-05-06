@@ -15,11 +15,13 @@
 
 # About Me
 
-- Working on MERN stack projects (CropShare, AI tools, full-stack apps) and DSA
+- Working on MERN stack projects, AI tools, and full-stack applications
 - Learning Advanced React, Next.js, System Design, and AI APIs
 - Open to collaborate on real-world MERN / AI projects
 - Interested in scalable backend architecture and AI integrations
 - Ask me about React, Vue, GSAP, and MERN stack development
+- Regularly practicing Data Structures & Algorithms
+- Building modern and responsive web applications
 
 ---
 
@@ -92,13 +94,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-
-</div>
-
 ---
 
 # Tech Stack
@@ -111,22 +106,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
 <br><strong>JavaScript</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
 <br><strong>TypeScript</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
 <br><strong>Java</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
 <br><strong>Python</strong>
 </td>
 
@@ -135,22 +130,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=c" width="45"/>
 <br><strong>C</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 <br><strong>C++</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 <br><strong>SQL</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
 <br><strong>HTML5</strong>
 </td>
 
@@ -159,7 +154,7 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
 <br><strong>CSS3</strong>
 </td>
 
@@ -174,22 +169,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
 <br><strong>React.js</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
 <br><strong>Next.js</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=vue" width="45"/>
 <br><strong>Vue.js</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=redux" width="45"/>
 <br><strong>Redux Toolkit</strong>
 </td>
 
@@ -198,22 +193,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 <br><strong>Tailwind CSS</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
 <br><strong>Bootstrap</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=materialui" width="45"/>
 <br><strong>Material UI</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
 <br><strong>Framer Motion</strong>
 </td>
 
@@ -222,12 +217,12 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ejs.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=ejs" width="45"/>
 <br><strong>EJS</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
 <br><strong>Responsive Design</strong>
 </td>
 
@@ -242,23 +237,23 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
 <br><strong>Node.js</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
 <br><strong>Express.js</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="45"/>
-<br><strong>REST API</strong>
+<img src="https://skillicons.dev/icons?i=graphql" width="45"/>
+<br><strong>GraphQL</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" width="45"/>
-<br><strong>GraphQL</strong>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
+<br><strong>Firebase Auth</strong>
 </td>
 
 </tr>
@@ -266,22 +261,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
-<br><strong>Firebase Auth</strong>
-</td>
-
-<td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=socketio" width="45"/>
 <br><strong>Socket.io</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
 <br><strong>MVC Architecture</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
+<br><strong>REST API</strong>
+</td>
+
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
 <br><strong>API Integration</strong>
 </td>
 
@@ -296,22 +291,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 <br><strong>MongoDB</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 <br><strong>MySQL</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
 <br><strong>PostgreSQL</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=prisma" width="45"/>
 <br><strong>Prisma</strong>
 </td>
 
@@ -320,12 +315,12 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
 <br><strong>Mongoose</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
 <br><strong>Firestore</strong>
 </td>
 
@@ -340,22 +335,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
 <br><strong>Git</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 <br><strong>GitHub</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
 <br><strong>VS Code</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
 <br><strong>Postman</strong>
 </td>
 
@@ -364,22 +359,22 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
 <br><strong>Docker</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
 <br><strong>AWS</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
 <br><strong>Firebase</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=npm" width="45"/>
 <br><strong>npm</strong>
 </td>
 
@@ -388,23 +383,23 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
 <br><strong>Linux</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=figma" width="45"/>
 <br><strong>Figma</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="45"/>
-<br><strong>Canva</strong>
+<img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+<br><strong>Vercel</strong>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="45"/>
-<br><strong>Vercel</strong>
+<img src="https://skillicons.dev/icons?i=netlify" width="45"/>
+<br><strong>Netlify</strong>
 </td>
 
 </tr>
@@ -412,12 +407,7 @@
 <tr>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/netlify.png" width="45"/>
-<br><strong>Netlify</strong>
-</td>
-
-<td align="center" width="140">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/render.png" width="45"/>
+<img src="https://skillicons.dev/icons?i=render" width="45"/>
 <br><strong>Render</strong>
 </td>
 
@@ -426,28 +416,47 @@
 
 </div>
 
+---
 
+# GitHub Analytics
 
-# Featured Projects
+<div align="center">
 
-## CropShare
-Full-stack MERN platform connecting farmers and buyers for crop sharing and resource management.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chhatrapati-sahu-09&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-🔗 https://cropshare.onrender.com/
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chhatrapati-sahu-09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## Major Project
-Production-level full-stack listing platform with authentication and advanced CRUD operations.
+# GitHub Streak
 
-🔗 https://majorproject-8a3f.onrender.com/listings
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chhatrapati-sahu-09&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## NeoMeet
-Modern real-time video meeting and collaboration platform.
+# Contribution Graph
 
-🔗 https://neomeet-1.onrender.com/
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhatrapati-sahu-09&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chhatrapati-sahu-09&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
@@ -457,7 +466,6 @@ Modern real-time video meeting and collaboration platform.
   <img 
     src="https://komarev.com/ghpvc/?username=Chhatrapati-sahu-09&color=blue"
     alt="Profile Views"
-    style="vertical-align:top; margin:6px 4px"
   >
 </p>
 
