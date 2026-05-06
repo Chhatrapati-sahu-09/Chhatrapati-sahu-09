@@ -430,13 +430,13 @@
 
 ---
 
+---
+
 # GitHub Streak
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chhatrapati-sahu-09&theme=dark&hide_border=true" />
+</p>
 
 ---
 
