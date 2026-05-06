@@ -417,7 +417,6 @@
 </div>
 
 ---
-
 # GitHub Analytics
 
 <div align="center">
@@ -435,6 +434,8 @@
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chhatrapati-sahu-09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
 
 ---
 
