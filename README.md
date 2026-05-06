@@ -112,4 +112,16 @@
 
 - CropShare → https://cropshare.onrender.com/  
 - Major Project → https://majorproject-8a3f.onrender.com/listings  
-- NeoMeet → https://neomeet-1.onrender.com/  
+- NeoMeet → https://neomeet-1.onrender.com/
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  Snake animation generated from my GitHub contribution graph
+</p>
