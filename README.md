@@ -444,7 +444,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chhatrapati-sahu-09&theme=tokyo-night&hide_border=true&area=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
