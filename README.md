@@ -30,14 +30,14 @@
 <div align="center">
 
 <a href="https://www.chhatrapatisahu.me" target="_blank">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" alt="Portfolio Website"/>
-
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
+    width="55" 
+    alt="Portfolio Website"
+  />
 </a>
 
-<br><br>
-
-<p align="center">
+<p>
   Explore my projects, case studies, full-stack applications, and development journey
 </p>
 
