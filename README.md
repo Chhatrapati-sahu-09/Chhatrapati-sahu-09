@@ -31,7 +31,7 @@
 
 <a href="https://www.chhatrapatisahu.me" target="_blank">
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="80" alt="Portfolio Website"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40" alt="Portfolio Website"/>
 
 </a>
 
