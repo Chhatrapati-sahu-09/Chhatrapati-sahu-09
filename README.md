@@ -116,12 +116,12 @@
 <br><br>
 
 ## Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 <br><br>
 
 ## Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,firebase,npm,linux,figma,vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,firebase,npm,figma,vercel,netlify,render" />
 
 </div>
 
