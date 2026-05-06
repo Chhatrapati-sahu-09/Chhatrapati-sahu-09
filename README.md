@@ -434,7 +434,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09)](https://git.io/streak-stats)
 
 </div>
 
