@@ -31,19 +31,17 @@
 
 <a href="https://www.chhatrapatisahu.me" target="_blank">
 
-<img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="80" alt="Portfolio Website"/>
 
 </a>
 
 <br><br>
 
 <p align="center">
-  🌐 Explore my projects, case studies, full-stack applications, and development journey
+  Explore my projects, case studies, full-stack applications, and development journey
 </p>
 
 </div>
-
----
 
 ---
 
