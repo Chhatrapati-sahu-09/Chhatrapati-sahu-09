@@ -423,7 +423,7 @@
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Chhatrapati-sahu-09&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chhatrapati-sahu-09&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -431,7 +431,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Chhatrapati-sahu-09&layout=compact&theme=tokyonight&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
