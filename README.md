@@ -96,7 +96,6 @@
 
 <div align="center">
 
-### 💼 Open for Internships • 🤝 Collaborations • 🚀 Full-Stack Opportunities
 
 </div>
 
@@ -427,31 +426,6 @@
 
 </div>
 
-# GitHub Stats
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats.shion.dev/api?username=Chhatrapati-sahu-09&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    style="vertical-align:top; margin:6px 4px"
-  >
-
-  <img 
-    src="https://streak-stats.demolab.com/?user=Chhatrapati-sahu-09&theme=apprentice&hide_border=false"
-    alt="GitHub Streak"
-    style="vertical-align:top; margin:6px 4px"
-  >
-
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Chhatrapati-sahu-09&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-    style="vertical-align:top; margin:6px 4px"
-  >
-
-</p>
-
----
 
 
 # Featured Projects
