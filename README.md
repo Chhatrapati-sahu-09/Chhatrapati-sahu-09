@@ -100,31 +100,37 @@
 <div align="center">
 
 ## Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,html,css,mysql" />
 
 <br><br>
 
 ## Frontend Development
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,bootstrap,materialui,ejs" />
 
 <br><br>
 
 ## Backend Development
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,postman" />
 
 <br><br>
 
 ## Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 
 <br><br>
 
 ## Tools & Platforms
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws,firebase,npm,figma,vercel,netlify,render" />
 
 </div>
 
 ---
+
 # GitHub Analytics
 
 <div align="center">
@@ -155,7 +161,6 @@
 
 ---
 
-
 # GitHub Trophies
 
 <div align="center">
@@ -180,3 +185,18 @@
 <p align="center">
   <i>"Building real-world products, solving problems, and improving every day."</i>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Chhatrapati-sahu-09/Chhatrapati-sahu-09/output/github-snake.svg"
+  />
+</picture>
