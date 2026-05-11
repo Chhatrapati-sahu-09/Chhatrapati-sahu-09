@@ -28,7 +28,6 @@
 # Portfolio
 
 <div align="center">
-
 <a href="https://www.chhatrapatisahu.me" target="_blank">
   <img 
     src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" 
@@ -36,7 +35,6 @@
     alt="Portfolio Website"
   />
 </a>
-
 <p>
   Explore my projects, case studies, full-stack applications, and development journey
 </p>
