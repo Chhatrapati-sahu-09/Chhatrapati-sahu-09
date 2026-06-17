@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Chhatrapati Sahu
-  <img src="./hello-minion.gif" width="60px" style="vertical-align: -15px;"/>
+  <img src="./hello-minion.gif" width="80px" style="vertical-align: -20px;"/>
 </h1>
 
 <h3 align="center">
