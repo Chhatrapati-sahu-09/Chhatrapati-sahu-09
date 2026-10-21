@@ -11,8 +11,6 @@
   MERN Stack • DSA • System Design • AI Integrations
 </p>
 
---
-
 
 # About Me
 
